@@ -14,6 +14,23 @@ Kullanıcıların blog yazıları gönderip ikili eşleşmelerde gerçek zamanl�
 - Admin panel: kullanıcı/rol/level, yazı, kategori, turnuva (oluştur, ilerlet, yenile, iptal et/sil, sahte oyları sıfırla)
 - Modern, Türkçe arayüz; responsive; mobilde swipe + buton alternatifleri
 
+### Öne Çıkan Ekran Görüntüleri
+- **Anasayfa ve kazananlar**: Madalya ikonlu kazanan yazılar ve akıcı kart düzeni.
+
+![Anasayfa ve kazananlar](screenshot/Anasayfavebirinciler.png)
+
+- **Turnuvalar**: Aktif/toplam maç, süre/katılım metrikleri ve oyla butonu.
+
+![Turnuvalar ve metrikler](screenshot/turnuvalar.png)
+
+- **Turnuvayı Oyla (Mobil)**: Swipe rehberi + alt aksiyon butonları, 5 sn sonuç.
+
+![Turnuvayı Oyla (mobil swipe)](screenshot/mobilswipe.png)
+
+- **Admin Yönetimi**: Turnuvayı manuel başlat/ilerlet/yenile/iptal.
+
+![Admin - turnuvayı manuel yönetme](screenshot/adminturnuvamanuel.png)
+
 ### Kurulum
 Önkoşul:
 - Node.js 18+
@@ -187,6 +204,18 @@ cp .env.example .env
 npm i
 npm run dev
 ```
+
+### Ekran Görüntüleri
+Anasayfa, turnuva akışı, bildirimler ve mobil swipe deneyiminden bazı kareler:
+
+![Anasayfa ve kazananlar](screenshot/Anasayfavebirinciler.png)
+![Turnuvalar ve metrikler](screenshot/turnuvalar.png)
+![Turnuvayı Oyla (mobil swipe)](screenshot/mobilswipe.png)
+![Benzer yazılar](screenshot/benzeryazilar.png)
+![Bildirim zili](screenshot/bildirim.png)
+![Profil ve seviyeler](screenshot/kullanicicaylakusta.png)
+![Profil sayfası](screenshot/profil.png)
+![Admin - turnuvayı manuel yönetme](screenshot/adminturnuvamanuel.png)
 
 
 
