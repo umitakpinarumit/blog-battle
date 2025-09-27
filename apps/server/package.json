@@ -8,6 +8,8 @@
     "build": "tsc -p tsconfig.json",
     "start": "node dist/index.js",
     "seed": "ts-node-dev --transpile-only src/seed/seed.ts",
+    "export:json": "node scripts/export-json.js",
+    "import:json": "node scripts/import-json.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

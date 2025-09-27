@@ -121,6 +121,16 @@ mongoexport --db blog_battle --collection posts --out posts.json
 mongoimport --db blog_battle --collection posts --drop --file posts.json
 ```
 
+Repo içi JSON dataset (opsiyonel, hızlandırma):
+```bash
+# export (cihazında mongoexport yüklüyse)
+cd apps/server
+npm run export:json
+
+# import (db-json klasöründen geri yükleme)
+npm run import:json
+```
+
 ### Sorun Giderme
 - 5000 portu dolu → süreç sonlandır veya `PORT` değiştir
 - Tailwind/PostCSS → `postcss.config.cjs` ve `@tailwindcss/postcss` doğru kurulu olmalı; Vite cache temizle (`.vite`)
