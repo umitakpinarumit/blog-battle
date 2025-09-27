@@ -18,6 +18,11 @@ dist-ssr
 apps/client/.env
 apps/server/.env
 
+# Allow example envs
+!.env.example
+!apps/client/.env.example
+!apps/server/.env.example
+
 # Uploads
 apps/server/uploads
 

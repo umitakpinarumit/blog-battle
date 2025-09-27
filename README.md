@@ -101,6 +101,26 @@ npm run seed
 - CLI: `mongosh "mongodb://127.0.0.1:27017"`
 - GUI: MongoDB Compass
 
+#### Dump/Restore (Opsiyonel)
+Reprodüksiyon için seed önerilir. İstenirse mevcut veritabanını dışa/içe aktarabilirsiniz:
+
+```bash
+# Binary dump
+mongodump --uri "mongodb://127.0.0.1:27017" -d blog_battle -o dump/
+
+# Geri yükleme (mevcut koleksiyonları temizleyerek)
+mongorestore --drop --uri "mongodb://127.0.0.1:27017" dump/blog_battle
+```
+
+Alternatif JSON:
+```bash
+# JSON dışa aktarma
+mongoexport --db blog_battle --collection posts --out posts.json
+
+# JSON içe aktarma (koleksiyonu sıfırlayarak)
+mongoimport --db blog_battle --collection posts --drop --file posts.json
+```
+
 ### Sorun Giderme
 - 5000 portu dolu → süreç sonlandır veya `PORT` değiştir
 - Tailwind/PostCSS → `postcss.config.cjs` ve `@tailwindcss/postcss` doğru kurulu olmalı; Vite cache temizle (`.vite`)
@@ -185,7 +205,7 @@ git init
 git add .
 git commit -m "feat: Blog Battle final teslim"
 git branch -M main
-git remote add origin https://github.com/<kullanıcı-adı>/blog-battle.git
+git remote add origin https://github.com/umitakpinarumit/blog-battle.git
 git push -u origin main
 ```
 
