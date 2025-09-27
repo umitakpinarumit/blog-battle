@@ -101,6 +101,34 @@ npm run seed
 - CLI: `mongosh "mongodb://127.0.0.1:27017"`
 - GUI: MongoDB Compass
 
+### MongoDB Kurulumu ve Bağlantı
+- MongoDB Community Server kurun ve Windows Hizmetleri’nde çalıştığından emin olun (varsayılan port: 27017).
+- Backend bağlantı adresi `apps/server/.env` içinde `MONGODB_URI` ile ayarlanır.
+  - Varsayılan: `mongodb://localhost:27017/blog_battle`
+  - Farklı sunucu/port kullanıyorsanız bu değeri güncelleyin.
+- İlk kurulum adımları (Windows PowerShell):
+  ```powershell
+  cd apps/server
+  Copy-Item .env.example .env
+  npm i
+  ```
+
+### Dataset İçe Aktarma (repo içi db-json)
+- Repodaki hazır dataset ile hızlı başlatma (MongoDB Tools gerektirmez):
+  ```powershell
+  cd apps/server
+  npm run import:json
+  npm run dev
+  ```
+- İstemci (ayrı terminal):
+  ```powershell
+  cd apps/client
+  Copy-Item .env.example .env
+  npm i
+  npm run dev
+  ```
+
+
 #### Dump/Restore (Opsiyonel)
 Reprodüksiyon için seed önerilir. İstenirse mevcut veritabanını dışa/içe aktarabilirsiniz:
 
