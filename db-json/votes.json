@@ -1,0 +1,263 @@
+[
+  {
+    "_id": "68d4e96c4021418b36c8d29a",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d4893c387b0538281714cd",
+    "choice": "A",
+    "createdAt": "2025-09-25T07:04:12.795Z",
+    "updatedAt": "2025-09-25T07:04:12.795Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d4ea794021418b36c8d2ca",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d4e1fe8bf066b498afea8d",
+    "choice": "B",
+    "createdAt": "2025-09-25T07:08:41.758Z",
+    "updatedAt": "2025-09-25T07:08:41.758Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d4eaa44021418b36c8d2f8",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d4e1fe8bf066b498afea8d",
+    "choice": "A",
+    "createdAt": "2025-09-25T07:09:24.555Z",
+    "updatedAt": "2025-09-25T07:09:24.555Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d4ee37a15d1188c26da7f6",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d4e0da8bf066b498afea47",
+    "choice": "A",
+    "createdAt": "2025-09-25T07:24:40.003Z",
+    "updatedAt": "2025-09-25T07:24:40.003Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d4efa3a15d1188c26da82b",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d443cb99185b91630b89fe",
+    "choice": "B",
+    "createdAt": "2025-09-25T07:30:43.271Z",
+    "updatedAt": "2025-09-25T07:30:43.271Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d56f1fd56fac4321252694",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d56f05d56fac43212525cc",
+    "choice": "A",
+    "createdAt": "2025-09-25T16:34:39.484Z",
+    "updatedAt": "2025-09-25T16:34:39.484Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d57530d56fac43212529f7",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d56f05d56fac43212525ca",
+    "choice": "B",
+    "createdAt": "2025-09-25T17:00:32.041Z",
+    "updatedAt": "2025-09-25T17:00:32.041Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d57d0bf858e0aba3682a08",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d57ce8f858e0aba368295c",
+    "choice": "B",
+    "createdAt": "2025-09-25T17:34:03.429Z",
+    "updatedAt": "2025-09-25T17:34:03.429Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d57d14f858e0aba3682a14",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d57ce8f858e0aba368295e",
+    "choice": "A",
+    "createdAt": "2025-09-25T17:34:12.822Z",
+    "updatedAt": "2025-09-25T17:34:12.822Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d5834cba6d3d2deeaa721c",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d57cb6f858e0aba3682953",
+    "choice": "A",
+    "createdAt": "2025-09-25T18:00:44.414Z",
+    "updatedAt": "2025-09-25T18:00:44.414Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d58363ba6d3d2deeaa72e5",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d57cb6f858e0aba3682955",
+    "choice": "A",
+    "createdAt": "2025-09-25T18:01:07.177Z",
+    "updatedAt": "2025-09-25T18:01:07.177Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d593018fba717c8a9bb4b9",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d56f05d56fac43212525ca",
+    "choice": "B",
+    "createdAt": "2025-09-25T19:07:45.071Z",
+    "updatedAt": "2025-09-25T19:07:45.071Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d593078fba717c8a9bb4c5",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d56f05d56fac43212525cc",
+    "choice": "A",
+    "createdAt": "2025-09-25T19:07:51.984Z",
+    "updatedAt": "2025-09-25T19:07:51.984Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d594608fba717c8a9bb83e",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d57ce8f858e0aba368295c",
+    "choice": "B",
+    "createdAt": "2025-09-25T19:13:36.352Z",
+    "updatedAt": "2025-09-25T19:13:36.352Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d594678fba717c8a9bb84a",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d57ce8f858e0aba368295e",
+    "choice": "A",
+    "createdAt": "2025-09-25T19:13:43.851Z",
+    "updatedAt": "2025-09-25T19:13:43.851Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d625c1f620a7b996d16231",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d6250c6b332e4c2c20f091",
+    "choice": "B",
+    "createdAt": "2025-09-26T05:33:53.797Z",
+    "updatedAt": "2025-09-26T05:33:53.797Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f24c7cda40309603bc8",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d63f1bc7cda40309603b0a",
+    "choice": "B",
+    "createdAt": "2025-09-26T07:22:12.706Z",
+    "updatedAt": "2025-09-26T07:22:12.706Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f2fc7cda40309603bda",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d63f1bc7cda40309603b0c",
+    "choice": "B",
+    "createdAt": "2025-09-26T07:22:23.366Z",
+    "updatedAt": "2025-09-26T07:22:23.366Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f38c7cda40309603bec",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d63f1bc7cda40309603b0e",
+    "choice": "A",
+    "createdAt": "2025-09-26T07:22:32.573Z",
+    "updatedAt": "2025-09-26T07:22:32.573Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6402fc7cda40309603f97",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d63f1bc7cda40309603b0a",
+    "choice": "B",
+    "createdAt": "2025-09-26T07:26:39.985Z",
+    "updatedAt": "2025-09-26T07:26:39.985Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d64038c7cda40309603fa9",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d63f1bc7cda40309603b0c",
+    "choice": "A",
+    "createdAt": "2025-09-26T07:26:48.293Z",
+    "updatedAt": "2025-09-26T07:26:48.293Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6403fc7cda40309603fbb",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d63f1bc7cda40309603b0e",
+    "choice": "A",
+    "createdAt": "2025-09-26T07:26:55.919Z",
+    "updatedAt": "2025-09-26T07:26:55.919Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d640abc7cda40309604019",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "matchId": "68d640a8c7cda40309603fde",
+    "choice": "B",
+    "createdAt": "2025-09-26T07:28:43.646Z",
+    "updatedAt": "2025-09-26T07:28:43.646Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6413bc7cda403096045e6",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d640a8c7cda40309603fde",
+    "choice": "A",
+    "createdAt": "2025-09-26T07:31:07.882Z",
+    "updatedAt": "2025-09-26T07:31:07.882Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d64508bb89fd0c8887f4cf",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d644f2bb89fd0c8887f1d0",
+    "choice": "B",
+    "createdAt": "2025-09-26T07:47:20.740Z",
+    "updatedAt": "2025-09-26T07:47:20.740Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66f0419f21cd4ec5c9f24",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d66c2019d424203859cfd4",
+    "choice": "B",
+    "createdAt": "2025-09-26T10:46:28.236Z",
+    "updatedAt": "2025-09-26T10:46:28.236Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6711519f21cd4ec5c9fcc",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d66c2019d424203859cfd6",
+    "choice": "B",
+    "createdAt": "2025-09-26T10:55:17.407Z",
+    "updatedAt": "2025-09-26T10:55:17.407Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6719619f21cd4ec5c9fe0",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d66c2019d424203859cfd8",
+    "choice": "B",
+    "createdAt": "2025-09-26T10:57:26.972Z",
+    "updatedAt": "2025-09-26T10:57:26.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d678d919f21cd4ec5cd29a",
+    "userId": "68d4e9564021418b36c8d287",
+    "matchId": "68d6719c19f21cd4ec5c9ffb",
+    "choice": "A",
+    "createdAt": "2025-09-26T11:28:25.019Z",
+    "updatedAt": "2025-09-26T11:28:25.019Z",
+    "__v": 0
+  }
+]

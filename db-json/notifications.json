@@ -1,0 +1,1960 @@
+[
+  {
+    "_id": "68d4e0da8bf066b498afea4b",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazın şu an oylamada!",
+    "meta": {
+      "postId": "68d4e0b08bf066b498afea32",
+      "opponentPostId": "68d440a1e268b0ba3b7e91bc",
+      "matchId": "68d4e0da8bf066b498afea47"
+    },
+    "read": true,
+    "createdAt": "2025-09-25T06:27:38.935Z",
+    "updatedAt": "2025-09-25T06:27:58.031Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d4e0da8bf066b498afea4d",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazın şu an oylamada!",
+    "meta": {
+      "postId": "68d440a1e268b0ba3b7e91bc",
+      "opponentPostId": "68d4e0b08bf066b498afea32",
+      "matchId": "68d4e0da8bf066b498afea47"
+    },
+    "read": true,
+    "createdAt": "2025-09-25T06:27:38.943Z",
+    "updatedAt": "2025-09-25T06:27:55.062Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d4e1fe8bf066b498afea91",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazın şu an oylamada!",
+    "meta": {
+      "postId": "68d440a1e268b0ba3b7e91bb",
+      "opponentPostId": "68d4e0b08bf066b498afea32",
+      "matchId": "68d4e1fe8bf066b498afea8d"
+    },
+    "read": true,
+    "createdAt": "2025-09-25T06:32:30.546Z",
+    "updatedAt": "2025-09-25T16:17:39.253Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d4e1fe8bf066b498afea93",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazın şu an oylamada!",
+    "meta": {
+      "postId": "68d4e0b08bf066b498afea32",
+      "opponentPostId": "68d440a1e268b0ba3b7e91bb",
+      "matchId": "68d4e1fe8bf066b498afea8d"
+    },
+    "read": true,
+    "createdAt": "2025-09-25T06:32:30.556Z",
+    "updatedAt": "2025-09-25T16:17:38.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d4e21f8bf066b498afea9b",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazın şu an oylamada!",
+    "meta": {
+      "postId": "68d440a1e268b0ba3b7e91bb",
+      "opponentPostId": "68d4e0b08bf066b498afea32",
+      "matchId": "68d4e21f8bf066b498afea97"
+    },
+    "read": true,
+    "createdAt": "2025-09-25T06:33:03.675Z",
+    "updatedAt": "2025-09-25T16:17:36.967Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d4e21f8bf066b498afea9d",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazın şu an oylamada!",
+    "meta": {
+      "postId": "68d4e0b08bf066b498afea32",
+      "opponentPostId": "68d440a1e268b0ba3b7e91bb",
+      "matchId": "68d4e21f8bf066b498afea97"
+    },
+    "read": true,
+    "createdAt": "2025-09-25T06:33:03.682Z",
+    "updatedAt": "2025-09-25T07:49:22.826Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d634e3a4064f9df43bd209",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58e318fba717c8a9ba998",
+      "matchId": "68d63498a4064f9df43bcffc"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:38:27.296Z",
+    "updatedAt": "2025-09-26T06:38:27.296Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d634e3a4064f9df43bd20b",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63498a4064f9df43bcffc"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:38:27.305Z",
+    "updatedAt": "2025-09-26T06:38:27.305Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d634eda4064f9df43bd222",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58ffe8fba717c8a9baae7",
+      "matchId": "68d63498a4064f9df43bd000"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:38:37.646Z",
+    "updatedAt": "2025-09-26T06:38:37.646Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d634eda4064f9df43bd224",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63498a4064f9df43bd000"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:38:37.656Z",
+    "updatedAt": "2025-09-26T06:38:37.656Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d636588ea297f51326355f",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:44:40.909Z",
+    "updatedAt": "2025-09-26T06:44:40.909Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d636588ea297f513263561",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:44:40.916Z",
+    "updatedAt": "2025-09-26T06:44:40.916Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d636588ea297f513263563",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": true,
+    "createdAt": "2025-09-26T06:44:40.921Z",
+    "updatedAt": "2025-09-26T06:44:52.249Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d636588ea297f513263565",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:44:40.926Z",
+    "updatedAt": "2025-09-26T06:44:40.926Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d636588ea297f513263569",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "matchId": "68d636588ea297f513263557"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:44:40.943Z",
+    "updatedAt": "2025-09-26T06:44:40.943Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d636728ea297f513263772",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58e318fba717c8a9ba998",
+      "matchId": "68d636588ea297f513263557"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:45:06.625Z",
+    "updatedAt": "2025-09-26T06:45:06.625Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d636728ea297f513263774",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d636588ea297f513263557"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:45:06.630Z",
+    "updatedAt": "2025-09-26T06:45:06.630Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d636828ea297f51326378b",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58ffe8fba717c8a9baae7",
+      "matchId": "68d636588ea297f51326355b"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:45:22.855Z",
+    "updatedAt": "2025-09-26T06:45:22.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d636828ea297f51326378d",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d636588ea297f51326355b"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:45:22.859Z",
+    "updatedAt": "2025-09-26T06:45:22.859Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d637b68ea297f513263d07",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:50:30.191Z",
+    "updatedAt": "2025-09-26T06:50:30.191Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d637b68ea297f513263d09",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:50:30.196Z",
+    "updatedAt": "2025-09-26T06:50:30.196Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d637b68ea297f513263d0b",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:50:30.199Z",
+    "updatedAt": "2025-09-26T06:50:30.199Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d637b68ea297f513263d0d",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:50:30.203Z",
+    "updatedAt": "2025-09-26T06:50:30.203Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d637b68ea297f513263d11",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "matchId": "68d637b68ea297f513263cff"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:50:30.216Z",
+    "updatedAt": "2025-09-26T06:50:30.216Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d637c88ea297f513263f06",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d590178fba717c8a9bab43",
+      "matchId": "68d637b68ea297f513263cff"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:50:48.769Z",
+    "updatedAt": "2025-09-26T06:50:48.769Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d637c88ea297f513263f08",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d637b68ea297f513263cff"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:50:48.772Z",
+    "updatedAt": "2025-09-26T06:50:48.772Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d637d08ea297f513263f1f",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58e318fba717c8a9ba998",
+      "matchId": "68d637b68ea297f513263d03"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:50:56.081Z",
+    "updatedAt": "2025-09-26T06:50:56.081Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d637d08ea297f513263f21",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d637b68ea297f513263d03"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:50:56.085Z",
+    "updatedAt": "2025-09-26T06:50:56.085Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d639138ea297f5132645d4",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:56:19.953Z",
+    "updatedAt": "2025-09-26T06:56:19.953Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d639138ea297f5132645d6",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:56:19.960Z",
+    "updatedAt": "2025-09-26T06:56:19.960Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d639138ea297f5132645d8",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:56:19.963Z",
+    "updatedAt": "2025-09-26T06:56:19.963Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d639138ea297f5132645da",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:56:19.966Z",
+    "updatedAt": "2025-09-26T06:56:19.966Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d639138ea297f5132645de",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "matchId": "68d639138ea297f5132645cc"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:56:19.978Z",
+    "updatedAt": "2025-09-26T06:56:19.978Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d639238ea297f51326479c",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58fbf8fba717c8a9baa36",
+      "matchId": "68d639138ea297f5132645cc"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:56:35.385Z",
+    "updatedAt": "2025-09-26T06:56:35.385Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d639238ea297f51326479e",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d639138ea297f5132645cc"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:56:35.389Z",
+    "updatedAt": "2025-09-26T06:56:35.389Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6392b8ea297f5132647b5",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58e318fba717c8a9ba998",
+      "matchId": "68d639138ea297f5132645d0"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:56:43.128Z",
+    "updatedAt": "2025-09-26T06:56:43.128Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6392b8ea297f5132647b7",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d639138ea297f5132645d0"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T06:56:43.131Z",
+    "updatedAt": "2025-09-26T06:56:43.131Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63b02c7cda403096031c3",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:04:34.958Z",
+    "updatedAt": "2025-09-26T07:04:34.958Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63b02c7cda403096031c5",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:04:34.964Z",
+    "updatedAt": "2025-09-26T07:04:34.964Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63b02c7cda403096031c7",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:04:34.969Z",
+    "updatedAt": "2025-09-26T07:04:34.969Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63b02c7cda403096031c9",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:04:34.974Z",
+    "updatedAt": "2025-09-26T07:04:34.974Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63b02c7cda403096031cd",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "matchId": "68d63b02c7cda403096031bb"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:04:35.000Z",
+    "updatedAt": "2025-09-26T07:04:35.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63b0fc7cda40309603354",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d590178fba717c8a9bab43",
+      "matchId": "68d63b02c7cda403096031bb"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:04:47.749Z",
+    "updatedAt": "2025-09-26T07:04:47.749Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63b0fc7cda40309603356",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63b02c7cda403096031bb"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:04:47.758Z",
+    "updatedAt": "2025-09-26T07:04:47.758Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63b17c7cda4030960336d",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58e318fba717c8a9ba998",
+      "matchId": "68d63b02c7cda403096031bf"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:04:55.510Z",
+    "updatedAt": "2025-09-26T07:04:55.510Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63b17c7cda4030960336f",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63b02c7cda403096031bf"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:04:55.514Z",
+    "updatedAt": "2025-09-26T07:04:55.514Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63bedc7cda40309603380",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:08:29.844Z",
+    "updatedAt": "2025-09-26T07:08:29.844Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63bedc7cda40309603382",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:08:29.850Z",
+    "updatedAt": "2025-09-26T07:08:29.850Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63bedc7cda40309603384",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:08:29.854Z",
+    "updatedAt": "2025-09-26T07:08:29.854Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63bedc7cda40309603386",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:08:29.860Z",
+    "updatedAt": "2025-09-26T07:08:29.860Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63bedc7cda4030960338a",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "matchId": "68d63bedc7cda40309603378"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:08:29.877Z",
+    "updatedAt": "2025-09-26T07:08:29.877Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63bfdc7cda40309603511",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58e318fba717c8a9ba998",
+      "matchId": "68d63bedc7cda40309603378"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:08:45.508Z",
+    "updatedAt": "2025-09-26T07:08:45.508Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63bfdc7cda40309603513",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63bedc7cda40309603378"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:08:45.513Z",
+    "updatedAt": "2025-09-26T07:08:45.513Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63c04c7cda4030960352a",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58fbf8fba717c8a9baa36",
+      "matchId": "68d63bedc7cda4030960337c"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:08:52.351Z",
+    "updatedAt": "2025-09-26T07:08:52.351Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63c04c7cda4030960352c",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63bedc7cda4030960337c"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:08:52.357Z",
+    "updatedAt": "2025-09-26T07:08:52.357Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63cf0c7cda4030960353d",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:12:48.127Z",
+    "updatedAt": "2025-09-26T07:12:48.127Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63cf0c7cda4030960353f",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:12:48.137Z",
+    "updatedAt": "2025-09-26T07:12:48.137Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63cf0c7cda40309603541",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:12:48.157Z",
+    "updatedAt": "2025-09-26T07:12:48.157Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63cf0c7cda40309603543",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:12:48.174Z",
+    "updatedAt": "2025-09-26T07:12:48.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63cf0c7cda40309603547",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "matchId": "68d63cf0c7cda40309603535"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:12:48.210Z",
+    "updatedAt": "2025-09-26T07:12:48.210Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63d08c7cda4030960373c",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58f5d8fba717c8a9ba9e8",
+      "matchId": "68d63cf0c7cda40309603535"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:13:12.204Z",
+    "updatedAt": "2025-09-26T07:13:12.204Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63d08c7cda4030960373e",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63cf0c7cda40309603535"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:13:12.216Z",
+    "updatedAt": "2025-09-26T07:13:12.216Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63d12c7cda40309603755",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58fe88fba717c8a9baa8f",
+      "matchId": "68d63cf0c7cda40309603539"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:13:22.667Z",
+    "updatedAt": "2025-09-26T07:13:22.667Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63d12c7cda40309603757",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63cf0c7cda40309603539"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:13:22.671Z",
+    "updatedAt": "2025-09-26T07:13:22.671Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63dc5c7cda40309603892",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:16:21.108Z",
+    "updatedAt": "2025-09-26T07:16:21.108Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63dc5c7cda40309603894",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:16:21.114Z",
+    "updatedAt": "2025-09-26T07:16:21.114Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63dc5c7cda40309603896",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:16:21.121Z",
+    "updatedAt": "2025-09-26T07:16:21.121Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63dc5c7cda40309603898",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:16:21.127Z",
+    "updatedAt": "2025-09-26T07:16:21.127Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63dc5c7cda4030960389c",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "matchId": "68d63dc5c7cda4030960388a"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:16:21.145Z",
+    "updatedAt": "2025-09-26T07:16:21.145Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63dd8c7cda403096039bc",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58e318fba717c8a9ba998",
+      "matchId": "68d63dc5c7cda4030960388a"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:16:40.294Z",
+    "updatedAt": "2025-09-26T07:16:40.294Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63dd8c7cda403096039be",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63dc5c7cda4030960388a"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:16:40.304Z",
+    "updatedAt": "2025-09-26T07:16:40.304Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63de0c7cda403096039d5",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d590178fba717c8a9bab43",
+      "matchId": "68d63dc5c7cda4030960388e"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:16:48.363Z",
+    "updatedAt": "2025-09-26T07:16:48.363Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63de0c7cda403096039d7",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63dc5c7cda4030960388e"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:16:48.371Z",
+    "updatedAt": "2025-09-26T07:16:48.371Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f1bc7cda40309603b12",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:22:03.183Z",
+    "updatedAt": "2025-09-26T07:22:03.183Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f1bc7cda40309603b14",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:22:03.188Z",
+    "updatedAt": "2025-09-26T07:22:03.188Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f1bc7cda40309603b16",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:22:03.192Z",
+    "updatedAt": "2025-09-26T07:22:03.192Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f1bc7cda40309603b18",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:22:03.195Z",
+    "updatedAt": "2025-09-26T07:22:03.195Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f1bc7cda40309603b1c",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "matchId": "68d63f1bc7cda40309603b0a"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:22:03.208Z",
+    "updatedAt": "2025-09-26T07:22:03.208Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f24c7cda40309603bce",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58f5d8fba717c8a9ba9e8",
+      "matchId": "68d63f1bc7cda40309603b0a"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:22:12.737Z",
+    "updatedAt": "2025-09-26T07:22:12.737Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f24c7cda40309603bd0",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63f1bc7cda40309603b0a"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:22:12.742Z",
+    "updatedAt": "2025-09-26T07:22:12.742Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f2fc7cda40309603be0",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d590178fba717c8a9bab43",
+      "matchId": "68d63f1bc7cda40309603b0c"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:22:23.402Z",
+    "updatedAt": "2025-09-26T07:22:23.402Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f2fc7cda40309603be2",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63f1bc7cda40309603b0c"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:22:23.411Z",
+    "updatedAt": "2025-09-26T07:22:23.411Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f38c7cda40309603bf2",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58e318fba717c8a9ba998",
+      "matchId": "68d63f1bc7cda40309603b0e"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:22:32.622Z",
+    "updatedAt": "2025-09-26T07:22:32.622Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d63f38c7cda40309603bf4",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63f1bc7cda40309603b0e"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:22:32.741Z",
+    "updatedAt": "2025-09-26T07:22:32.741Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d64030c7cda40309603f9d",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58f5d8fba717c8a9ba9e8",
+      "matchId": "68d63f1bc7cda40309603b0a"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:26:40.170Z",
+    "updatedAt": "2025-09-26T07:26:40.170Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d64030c7cda40309603f9f",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63f1bc7cda40309603b0a"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:26:40.174Z",
+    "updatedAt": "2025-09-26T07:26:40.174Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d64038c7cda40309603faf",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58fe88fba717c8a9baa8f",
+      "matchId": "68d63f1bc7cda40309603b0c"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:26:48.324Z",
+    "updatedAt": "2025-09-26T07:26:48.324Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d64038c7cda40309603fb1",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63f1bc7cda40309603b0c"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:26:48.328Z",
+    "updatedAt": "2025-09-26T07:26:48.328Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6403fc7cda40309603fc1",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58e318fba717c8a9ba998",
+      "matchId": "68d63f1bc7cda40309603b0e"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:26:55.951Z",
+    "updatedAt": "2025-09-26T07:26:55.951Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6403fc7cda40309603fc3",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d63f1bc7cda40309603b0e"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:26:55.955Z",
+    "updatedAt": "2025-09-26T07:26:55.955Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d640a8c7cda40309603fe4",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "tournament",
+    "message": "Turnuva yeni tura geçti.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 2
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:28:40.792Z",
+    "updatedAt": "2025-09-26T07:28:40.792Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d640a8c7cda40309603fe6",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeni tura geçti.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 2
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:28:40.795Z",
+    "updatedAt": "2025-09-26T07:28:40.795Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d640a8c7cda40309603fe9",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 2
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:28:40.801Z",
+    "updatedAt": "2025-09-26T07:28:40.801Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d640a8c7cda40309603feb",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 2
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:28:40.804Z",
+    "updatedAt": "2025-09-26T07:28:40.804Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d640a8c7cda40309603fed",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 2
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:28:40.807Z",
+    "updatedAt": "2025-09-26T07:28:40.807Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d640a8c7cda40309603fef",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 2
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:28:40.809Z",
+    "updatedAt": "2025-09-26T07:28:40.809Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d640a8c7cda40309603ff3",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "matchId": "68d640a8c7cda40309603fde"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:28:40.817Z",
+    "updatedAt": "2025-09-26T07:28:40.817Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d640abc7cda4030960401f",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58f5d8fba717c8a9ba9e8",
+      "matchId": "68d640a8c7cda40309603fde"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:28:43.663Z",
+    "updatedAt": "2025-09-26T07:28:43.663Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d640abc7cda40309604021",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d640a8c7cda40309603fde"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:28:43.666Z",
+    "updatedAt": "2025-09-26T07:28:43.666Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6413bc7cda403096045ec",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58fe88fba717c8a9baa8f",
+      "matchId": "68d640a8c7cda40309603fde"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:31:07.899Z",
+    "updatedAt": "2025-09-26T07:31:07.899Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6413bc7cda403096045ee",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d640a8c7cda40309603fde"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:31:07.903Z",
+    "updatedAt": "2025-09-26T07:31:07.903Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d644f2bb89fd0c8887f1d5",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "tournament",
+    "message": "Turnuva yeni tura geçti.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 3
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:46:58.626Z",
+    "updatedAt": "2025-09-26T07:46:58.626Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d644f2bb89fd0c8887f1d9",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeni tura geçti.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 3
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:46:58.638Z",
+    "updatedAt": "2025-09-26T07:46:58.638Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d644f2bb89fd0c8887f1e0",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 3
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:46:58.671Z",
+    "updatedAt": "2025-09-26T07:46:58.671Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d644f2bb89fd0c8887f1e2",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 3
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:46:58.689Z",
+    "updatedAt": "2025-09-26T07:46:58.689Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d644f2bb89fd0c8887f1e5",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 3
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:46:58.705Z",
+    "updatedAt": "2025-09-26T07:46:58.705Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d644f2bb89fd0c8887f1e8",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "round": 3
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:46:58.720Z",
+    "updatedAt": "2025-09-26T07:46:58.720Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d644f2bb89fd0c8887f1ee",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d58e138fba717c8a9ba992",
+      "matchId": "68d644f2bb89fd0c8887f1d0"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:46:58.748Z",
+    "updatedAt": "2025-09-26T07:46:58.748Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d64508bb89fd0c8887f4d5",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d58e318fba717c8a9ba998",
+      "matchId": "68d644f2bb89fd0c8887f1d0"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:47:20.763Z",
+    "updatedAt": "2025-09-26T07:47:20.763Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d64508bb89fd0c8887f4d7",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d644f2bb89fd0c8887f1d0"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T07:47:20.768Z",
+    "updatedAt": "2025-09-26T07:47:20.768Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66963bb89fd0c88881d07",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "post",
+    "message": "Yeni bir yazı oluşturdunuz.",
+    "meta": {
+      "postId": "68d66963bb89fd0c88881d05"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:22:27.624Z",
+    "updatedAt": "2025-09-26T10:22:27.624Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66983bb89fd0c88881d27",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "post",
+    "message": "Yeni bir yazı oluşturdunuz.",
+    "meta": {
+      "postId": "68d66983bb89fd0c88881d25"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:22:59.239Z",
+    "updatedAt": "2025-09-26T10:22:59.239Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d669a0bb89fd0c88881dc5",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "post",
+    "message": "Yeni bir yazı oluşturdunuz.",
+    "meta": {
+      "postId": "68d669a0bb89fd0c88881dc3"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:23:28.308Z",
+    "updatedAt": "2025-09-26T10:23:28.308Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d669b8bb89fd0c88881df6",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "post",
+    "message": "Yeni bir yazı oluşturdunuz.",
+    "meta": {
+      "postId": "68d669b8bb89fd0c88881df4"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:23:52.449Z",
+    "updatedAt": "2025-09-26T10:23:52.449Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d669e5bb89fd0c88881e2b",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "post",
+    "message": "Yeni bir yazı oluşturdunuz.",
+    "meta": {
+      "postId": "68d669e5bb89fd0c88881e29"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:24:37.696Z",
+    "updatedAt": "2025-09-26T10:24:37.696Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66a00bb89fd0c88881e64",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "post",
+    "message": "Yeni bir yazı oluşturdunuz.",
+    "meta": {
+      "postId": "68d66a00bb89fd0c88881e62"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:25:04.679Z",
+    "updatedAt": "2025-09-26T10:25:04.679Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66a19bb89fd0c88881ea1",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "post",
+    "message": "Yeni bir yazı oluşturdunuz.",
+    "meta": {
+      "postId": "68d66a19bb89fd0c88881e9f"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:25:29.892Z",
+    "updatedAt": "2025-09-26T10:25:29.892Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66c2019d424203859cfdc",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:34:08.694Z",
+    "updatedAt": "2025-09-26T10:34:08.694Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66c2019d424203859cfde",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:34:08.702Z",
+    "updatedAt": "2025-09-26T10:34:08.702Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66c2019d424203859cfe0",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:34:08.706Z",
+    "updatedAt": "2025-09-26T10:34:08.706Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66c2019d424203859cfe2",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "tournament",
+    "message": "Turnuva yeniden başlatıldı. Yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 1
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:34:08.712Z",
+    "updatedAt": "2025-09-26T10:34:08.712Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66c2019d424203859cfe6",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "matchId": "68d66c2019d424203859cfd4"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:34:08.731Z",
+    "updatedAt": "2025-09-26T10:34:08.731Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66f0419f21cd4ec5c9f2a",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d66963bb89fd0c88881d05",
+      "matchId": "68d66c2019d424203859cfd4"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:46:28.323Z",
+    "updatedAt": "2025-09-26T10:46:28.323Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d66f0419f21cd4ec5c9f2c",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d66c2019d424203859cfd4"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:46:28.332Z",
+    "updatedAt": "2025-09-26T10:46:28.332Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6711519f21cd4ec5c9fd2",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d669a0bb89fd0c88881dc3",
+      "matchId": "68d66c2019d424203859cfd6"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:55:17.431Z",
+    "updatedAt": "2025-09-26T10:55:17.431Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6711519f21cd4ec5c9fd4",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d66c2019d424203859cfd6"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:55:17.436Z",
+    "updatedAt": "2025-09-26T10:55:17.436Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6719619f21cd4ec5c9fe6",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d669b8bb89fd0c88881df4",
+      "matchId": "68d66c2019d424203859cfd8"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:57:27.002Z",
+    "updatedAt": "2025-09-26T10:57:27.002Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6719719f21cd4ec5c9fe8",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d66c2019d424203859cfd8"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:57:27.009Z",
+    "updatedAt": "2025-09-26T10:57:27.009Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6719c19f21cd4ec5ca001",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeni tura geçti.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 2
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:57:32.195Z",
+    "updatedAt": "2025-09-26T10:57:32.195Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6719c19f21cd4ec5ca004",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 2
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:57:32.205Z",
+    "updatedAt": "2025-09-26T10:57:32.205Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6719c19f21cd4ec5ca006",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 2
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:57:32.209Z",
+    "updatedAt": "2025-09-26T10:57:32.209Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6719c19f21cd4ec5ca008",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 2
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:57:32.212Z",
+    "updatedAt": "2025-09-26T10:57:32.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6719c19f21cd4ec5ca00a",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 2
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:57:32.216Z",
+    "updatedAt": "2025-09-26T10:57:32.216Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d6719c19f21cd4ec5ca00e",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "matchId": "68d6719c19f21cd4ec5c9ffb"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T10:57:32.228Z",
+    "updatedAt": "2025-09-26T10:57:32.228Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d678d919f21cd4ec5cd2a0",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Yazınıza bir oy geldi.",
+    "meta": {
+      "postId": "68d66963bb89fd0c88881d05",
+      "matchId": "68d6719c19f21cd4ec5c9ffb"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T11:28:25.042Z",
+    "updatedAt": "2025-09-26T11:28:25.042Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d678d919f21cd4ec5cd2a2",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "vote",
+    "message": "Bir eşleşmede oy kullandınız.",
+    "meta": {
+      "matchId": "68d6719c19f21cd4ec5c9ffb"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T11:28:25.049Z",
+    "updatedAt": "2025-09-26T11:28:25.049Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d678de19f21cd4ec5cd2b3",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "tournament",
+    "message": "Turnuva yeni tura geçti.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 3
+    },
+    "read": false,
+    "createdAt": "2025-09-26T11:28:30.252Z",
+    "updatedAt": "2025-09-26T11:28:30.252Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d678de19f21cd4ec5cd2b6",
+    "userId": "68d440a1e268b0ba3b7e91b5",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 3
+    },
+    "read": false,
+    "createdAt": "2025-09-26T11:28:30.265Z",
+    "updatedAt": "2025-09-26T11:28:30.265Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d678de19f21cd4ec5cd2b8",
+    "userId": "68d440a1e268b0ba3b7e91b7",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 3
+    },
+    "read": false,
+    "createdAt": "2025-09-26T11:28:30.271Z",
+    "updatedAt": "2025-09-26T11:28:30.271Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d678de19f21cd4ec5cd2ba",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 3
+    },
+    "read": false,
+    "createdAt": "2025-09-26T11:28:30.282Z",
+    "updatedAt": "2025-09-26T11:28:30.282Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d678de19f21cd4ec5cd2bc",
+    "userId": "68d594e88fba717c8a9bb92d",
+    "type": "round",
+    "message": "Turnuvada yeni tur başladı.",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "round": 3
+    },
+    "read": false,
+    "createdAt": "2025-09-26T11:28:30.292Z",
+    "updatedAt": "2025-09-26T11:28:30.292Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d678de19f21cd4ec5cd2c0",
+    "userId": "68d4e9564021418b36c8d287",
+    "type": "match",
+    "message": "Yazınız şu an oylamada!",
+    "meta": {
+      "tournamentId": "68d66928bb89fd0c88881cb5",
+      "matchId": "68d678de19f21cd4ec5cd2af"
+    },
+    "read": false,
+    "createdAt": "2025-09-26T11:28:30.322Z",
+    "updatedAt": "2025-09-26T11:28:30.322Z",
+    "__v": 0
+  }
+]

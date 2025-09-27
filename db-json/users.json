@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "68d440a1e268b0ba3b7e91b5",
+    "email": "demo@example.com",
+    "passwordHash": "$2b$10$JCdGi9zIWNGA3EaRs9MCaOmdar67CvZJX1PabanKlKg51.3tTE8L.",
+    "displayName": "Demo User",
+    "role": "user",
+    "level": "Köşe Yazarı",
+    "stats": {
+      "postCount": 10,
+      "wins": 1,
+      "votesGiven": 0
+    },
+    "createdAt": "2025-09-24T19:04:01.249Z",
+    "updatedAt": "2025-09-25T22:51:36.933Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d440a1e268b0ba3b7e91b7",
+    "email": "admin@example.com",
+    "passwordHash": "$2b$10$JCdGi9zIWNGA3EaRs9MCaOmdar67CvZJX1PabanKlKg51.3tTE8L.",
+    "displayName": "Admin",
+    "role": "admin",
+    "level": "Usta Kalem",
+    "stats": {
+      "postCount": 0,
+      "wins": 0,
+      "votesGiven": 0
+    },
+    "createdAt": "2025-09-24T19:04:01.276Z",
+    "updatedAt": "2025-09-24T19:04:01.276Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d4e9564021418b36c8d287",
+    "email": "umtakpinr@gmail.com",
+    "passwordHash": "$2b$10$FhaUTD9IrGFk4THet2bHmOL4V4rS2OAg2UWz4zx1/wg5ezc5CK03y",
+    "displayName": "Ümit Akpınar",
+    "role": "user",
+    "level": "Çaylak",
+    "stats": {
+      "postCount": 0,
+      "wins": 0,
+      "votesGiven": 0
+    },
+    "createdAt": "2025-09-25T07:03:50.191Z",
+    "updatedAt": "2025-09-25T07:03:50.191Z",
+    "__v": 0
+  },
+  {
+    "_id": "68d594e88fba717c8a9bb92d",
+    "email": "deneme@gmail.com",
+    "passwordHash": "$2b$10$aZ/wbcam4BxWIfUYdsBie.GdgV5BPA3a2n2R29fhz2Kd4Ivfx39J.",
+    "displayName": "deneme",
+    "role": "user",
+    "level": "Çaylak",
+    "stats": {
+      "postCount": 0,
+      "wins": 0,
+      "votesGiven": 0
+    },
+    "createdAt": "2025-09-25T19:15:52.944Z",
+    "updatedAt": "2025-09-25T19:15:52.944Z",
+    "__v": 0
+  }
+]

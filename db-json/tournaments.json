@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "68d56f05d56fac43212525ce",
+    "name": "Genel Turnuvası",
+    "category": "Genel",
+    "participants": [
+      "68d4891e387b0538281714b8",
+      "68d54ee5b7d9b840575fc69e",
+      "68d56b545d5fa928b0a75c64",
+      "68d56b725d5fa928b0a75c9e",
+      "68d58f5d8fba717c8a9ba9e8"
+    ],
+    "rounds": [
+      [
+        "68d56f05d56fac43212525ca",
+        "68d56f05d56fac43212525cc"
+      ]
+    ],
+    "currentRound": 1,
+    "status": "ongoing",
+    "createdAt": "2025-09-25T16:34:13.371Z",
+    "updatedAt": "2025-09-25T18:52:13.634Z",
+    "__v": 2,
+    "progressionMode": "time",
+    "threshold": 3600
+  },
+  {
+    "_id": "68d57cb6f858e0aba3682957",
+    "name": "Süreli turnuva",
+    "participants": [
+      "68d56b725d5fa928b0a75c9e",
+      "68d4891e387b0538281714b8",
+      "68d56b545d5fa928b0a75c64",
+      "68d54ee5b7d9b840575fc69e"
+    ],
+    "rounds": [
+      [
+        "68d57cb6f858e0aba3682953",
+        "68d57cb6f858e0aba3682955"
+      ],
+      [
+        "68d6250c6b332e4c2c20f0b5"
+      ]
+    ],
+    "currentRound": 2,
+    "status": "finished",
+    "progressionMode": "time",
+    "threshold": 3600,
+    "currentRoundStartedAt": "2025-09-26T05:30:52.337Z",
+    "createdAt": "2025-09-25T17:32:39.003Z",
+    "updatedAt": "2025-09-26T06:30:55.917Z",
+    "__v": 1,
+    "byes": [],
+    "winnerPostId": "68d56b545d5fa928b0a75c64"
+  },
+  {
+    "_id": "68d57ce8f858e0aba3682960",
+    "name": "Katılımcı turnuvası",
+    "participants": [
+      "68d56b725d5fa928b0a75c9e",
+      "68d4891e387b0538281714b8",
+      "68d56b545d5fa928b0a75c64",
+      "68d54ee5b7d9b840575fc69e"
+    ],
+    "rounds": [
+      [
+        "68d57ce8f858e0aba368295c",
+        "68d57ce8f858e0aba368295e"
+      ],
+      [
+        "68d6250c6b332e4c2c20f091"
+      ]
+    ],
+    "currentRound": 2,
+    "status": "finished",
+    "progressionMode": "participation",
+    "threshold": 10,
+    "currentRoundStartedAt": "2025-09-26T05:30:52.232Z",
+    "createdAt": "2025-09-25T17:33:28.515Z",
+    "updatedAt": "2025-09-26T05:41:54.322Z",
+    "__v": 1,
+    "byes": []
+  },
+  {
+    "_id": "68d58e138fba717c8a9ba992",
+    "name": "Bilişim Turnuvası",
+    "category": "Bilişim",
+    "participants": [
+      "68d58e318fba717c8a9ba998",
+      "68d58f5d8fba717c8a9ba9e8",
+      "68d58fbf8fba717c8a9baa36",
+      "68d58fe88fba717c8a9baa8f",
+      "68d58ffe8fba717c8a9baae7",
+      "68d590178fba717c8a9bab43"
+    ],
+    "rounds": [
+      [
+        "68d63f1bc7cda40309603b0a",
+        "68d63f1bc7cda40309603b0c",
+        "68d63f1bc7cda40309603b0e"
+      ],
+      [
+        "68d640a8c7cda40309603fde",
+        "68d640a8c7cda40309603fe0"
+      ],
+      [
+        "68d644f2bb89fd0c8887f1d0"
+      ]
+    ],
+    "currentRound": 3,
+    "status": "finished",
+    "progressionMode": "participation",
+    "threshold": 50,
+    "createdAt": "2025-09-25T18:46:43.179Z",
+    "updatedAt": "2025-09-26T07:47:25.884Z",
+    "__v": 25,
+    "currentRoundStartedAt": "2025-09-26T07:46:58.587Z",
+    "byes": [
+      []
+    ],
+    "winnerPostId": "68d58e318fba717c8a9ba998"
+  },
+  {
+    "_id": "68d66928bb89fd0c88881cb5",
+    "name": "Teknoloji Turnuvası",
+    "category": "Teknoloji",
+    "participants": [
+      "68d66963bb89fd0c88881d05",
+      "68d66983bb89fd0c88881d25",
+      "68d669a0bb89fd0c88881dc3",
+      "68d669b8bb89fd0c88881df4",
+      "68d669e5bb89fd0c88881e29",
+      "68d66a00bb89fd0c88881e62",
+      "68d66a19bb89fd0c88881e9f"
+    ],
+    "rounds": [
+      [
+        "68d66c2019d424203859cfd4",
+        "68d66c2019d424203859cfd6",
+        "68d66c2019d424203859cfd8"
+      ],
+      [
+        "68d6719c19f21cd4ec5c9ffb",
+        "68d6719c19f21cd4ec5c9ffd"
+      ],
+      [
+        "68d678de19f21cd4ec5cd2af"
+      ]
+    ],
+    "byes": [
+      [
+        "68d66a00bb89fd0c88881e62"
+      ]
+    ],
+    "currentRound": 3,
+    "status": "ongoing",
+    "progressionMode": "participation",
+    "threshold": 50,
+    "createdAt": "2025-09-26T10:21:28.307Z",
+    "updatedAt": "2025-09-26T11:28:30.234Z",
+    "__v": 11,
+    "currentRoundStartedAt": "2025-09-26T11:28:30.227Z"
+  }
+]
